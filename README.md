@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jairo Gael Mota Lopez
 
 ### 🚀 Desarrollador Full-Stack Multiplataforma
-*Estudiante de Ingeniería en Tecnologías | Especialista en Software Escalable*
+*Estudiante de Ingeniería en Tecnologías*
 
 Soy un apasionado **Desarrollador Full-Stack** enfocado en construir soluciones robustas que conecten el backend con experiencias de usuario fluidas en web y móvil. Me encanta enfrentar retos técnicos y aprender constantemente sobre nuevas infraestructuras.
 
