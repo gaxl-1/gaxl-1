@@ -58,10 +58,9 @@ Soy un apasionado **Desarrollador Full-Stack** enfocado en construir soluciones 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaxl-1&show_icons=true&theme=tokyonight" alt="Estadísticas de Jairo" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaxl-1&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="40%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gaxl-1&show_icons=true&theme=tokyonight&hide_border=false" alt="Estadísticas de Jairo" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gaxl-1&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" width="40%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaxl-1&theme=tokyonight" alt="GitHub Streak" width="89%" />
 </p>
